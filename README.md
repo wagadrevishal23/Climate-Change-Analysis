@@ -20,7 +20,7 @@ This initiative offers an extensive, multi-faceted dataset monitoring crucial cl
 5. Forest area, carbon stocks, and indices of land cover and climate regulation.  
 6. Atmospheric CO₂ (ppm) monthly trend time series.
 
-Link to Jupyter Notebook for project:  
+Link to Jupyter Notebook for project: https://github.com/wagadrevishal23/Climate-Change-Analysis/blob/main/Climate_Project_Files/Climate_Change_Data_Analysis.ipynb 
 Link to Datasets source: https://climatedata.imf.org/pages/climatechange-data  
 ___
 ## Vizualizations
